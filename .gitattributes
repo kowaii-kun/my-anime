@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test page</title>
+</head>
+<body>
+	<h1>Hey! my fav anime character</h1>
+	<p>Hey. im <b>Kirito</b>. kool huh!?</p>
+	<a href="https://gogoanime.wiki/category/sword-art-online" target="_blank" title="go see where im from :D">click me! im a link</a>
+	<p>My name is: <br>
+		kirito
+	<img src="https://pbs.twimg.com/profile_images/944413884651208704/UB_TzOlC_400x400.jpg">
+</body>
+</html>
